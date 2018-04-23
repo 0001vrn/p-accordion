@@ -1,5 +1,7 @@
 # PAccordion
 
+An angular project to demonstrate p-accordion, ng-content and recursive rendering.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
